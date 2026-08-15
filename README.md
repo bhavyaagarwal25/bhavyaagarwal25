@@ -24,12 +24,13 @@
 ## 👨‍💻 About Me
 
 ```yaml
-Name: Bhavya Agarwal
-Education: B.Tech CSE, Graphic Era Hill University (2023–2027) — CGPA 8.68/10
+name: Bhavya Agarwal
+education: B.Tech CSE, Graphic Era Hill University (2023–2027) — CGPA 8.68/10
 focus_areas: [Data Analysis, Generative AI & NLP, iOS Development]
-Recognition: Selected — Apple & Infosys iOS Student Developer Program (2500+ applicants)
-Currently_exploring: [LLMs & GenAI pipelines, applied ML for accessibility, system design]
-Believes_in: Using data and AI to build products that solve real human problems
+current_role: iOS Developer Intern @ Infosys
+recognition: Selected — Apple & Infosys iOS Student Developer Program (2500+ applicants)
+currently_exploring: [LLMs & GenAI pipelines, applied ML for accessibility, system design]
+believes_in: Using data and AI to build products that solve real human problems
 ```
 
 I like working across the stack — from cleaning and analyzing data with Python, to building intelligent NLP/GenAI features, to shipping polished mobile experiences. Most of my projects sit at the intersection of **accessibility, AI, and impact**.
@@ -158,12 +159,12 @@ An offline-first food ordering solution enabling order placement and payments wi
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhavyaagarwal25&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavyaagarwal25&layout=compact&theme=radical&hide_border=true" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=bhavyaagarwal25&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=bhavyaagarwal25&layout=compact&theme=radical&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhavyaagarwal25&theme=radical&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=bhavyaagarwal25&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
