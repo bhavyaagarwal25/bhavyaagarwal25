@@ -151,4 +151,4 @@ An offline-first food ordering solution enabling order placement and payments wi
 
 <br>
 📊 Contribution Graph
-<p align="center"> <img src="https://raw.githubusercontent.com/bhavyaagarwal25/bhavyaagarwal25/output/github-contribution-grid-snake-dark.svg" /> </p> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:764ba2,100:667eea&height=120&section=footer" />
+<p align="center"> <img src="https://raw.githubusercontent.com/bhavyaagarwal25/bhavyaagarwal25/output/github-contribution-grid-snake-light.svg" /> </p> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:764ba2,100:667eea&height=120&section=footer" />
