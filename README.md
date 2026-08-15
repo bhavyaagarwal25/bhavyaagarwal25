@@ -23,13 +23,12 @@
 ## 👨‍💻 About Me
 
 ```yaml
-name: Bhavya Agarwal
-education: B.Tech CSE, Graphic Era Hill University (2023–2027) — CGPA 8.68/10
+Name: Bhavya Agarwal
+Education: B.Tech CSE, Graphic Era Hill University (2023–2027) — CGPA 8.68/10
 focus_areas: [Data Analysis, Generative AI & NLP, iOS Development]
-current_role: iOS Developer Intern @ Infosys
-recognition: Selected — Apple & Infosys iOS Student Developer Program (2500+ applicants)
-currently_exploring: [LLMs & GenAI pipelines, applied ML for accessibility, system design]
-believes_in: Using data and AI to build products that solve real human problems
+Recognition: Selected — Apple & Infosys iOS Student Developer Program (2500+ applicants)
+Currently_exploring: [LLMs & GenAI pipelines, applied ML for accessibility, system design]
+Believes_in: Using data and AI to build products that solve real human problems
 ```
 
 I like working across the stack — from cleaning and analyzing data with Python, to building intelligent NLP/GenAI features, to shipping polished mobile experiences. Most of my projects sit at the intersection of **accessibility, AI, and impact**.
@@ -154,24 +153,5 @@ An offline-first food ordering solution enabling order placement and payments wi
 - 🏅 **Top 10 / 500+ teams** — Hack the Winter Hackathon — *RationChain*, a blockchain-based transparent ration distribution system
 
 <br>
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=bhavyaagarwal25&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=bhavyaagarwal25&layout=compact&theme=radical&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=bhavyaagarwal25&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-trophies.vercel.app/?username=bhavyaagarwal25&theme=radical&no-frame=true&row=1&column=6" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/bhavyaagarwal25/bhavyaagarwal25/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:764ba2,100:667eea&height=120&section=footer" />
+📊 Contribution Graph
+<p align="center"> <img src="https://raw.githubusercontent.com/bhavyaagarwal25/bhavyaagarwal25/output/github-contribution-grid-snake-dark.svg" /> </p> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:764ba2,100:667eea&height=120&section=footer" />
