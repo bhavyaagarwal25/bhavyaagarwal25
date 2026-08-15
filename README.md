@@ -8,7 +8,6 @@
 <p align="center">
   <a href="https://linkedin.com/in/bhavya-agarwal-1088582b2/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:bhavyaagarwal947@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://leetcode.com/u/bhavii25/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
   <a href="https://YOUR-PORTFOLIO-LINK.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
@@ -20,6 +19,7 @@
 - 📱 iOS Developer (Swift & UIKit)
 - 💼 iOS Developer Intern at **Infosys**
 - 🌱 Currently learning **SwiftUI**, **System Design**, and **DSA**
+- 🔨 Currently building: <!-- name your active project -->
 - 🚀 Passionate about building products that create real-world impact
 - 📫 Reach me at: **bhavyaagarwal947@gmail.com**
 
@@ -60,11 +60,6 @@
 
 ### 🚀 Project Showcase
 
-<!--
-  Replace each block below with your real projects.
-  Tip: keep 3–6 of your strongest projects — quality over quantity.
--->
-
 #### 📱 [Project Name 1](https://github.com/YOUR-USERNAME/project-repo)
 Short one-line description of what the app does and who it's for.
 - Built with **Swift, UIKit, MVVM**
@@ -89,20 +84,22 @@ Short one-line description of a full-stack project.
 
 ### 🏆 Achievements
 
-<!-- Replace with real achievements: hackathons, certifications, ranks, publications, etc. -->
-
-- 🥇 Winner — Saarthi'25(2025)
-- 📜 Certification — *e.g., Apple Developer Academy / Coursera iOS Specialization*
+- 🥇 Winner — Saarthi'25 (2025)
+- 📜 Certification — <!-- name it -->
 - 📈 Solved **300+** DSA problems across platforms
-- 🎤 Speaker / Volunteer — *Event / Community Name*
+- 🎤 Speaker / Volunteer — <!-- name it -->
 
 ---
 
-### 📊 LeetCode Stats
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/bhavii25?theme=dark&font=baloo2&ext=heatmap" alt="LeetCode Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=dark" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=dark" alt="Top Languages" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=dark" alt="GitHub Streak"/>
 </p>
 
 ---
-
