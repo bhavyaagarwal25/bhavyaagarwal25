@@ -24,13 +24,12 @@
 ## 👨‍💻 About Me
 
 ```yaml
-name: Bhavya Agarwal
-education: B.Tech CSE, Graphic Era Hill University (2023–2027) — CGPA 8.68/10
+Name: Bhavya Agarwal
+Education: B.Tech CSE, Graphic Era Hill University (2023–2027) — CGPA 8.68/10
 focus_areas: [Data Analysis, Generative AI & NLP, iOS Development]
-current_role: iOS Developer Intern @ Infosys
-recognition: Selected — Apple & Infosys iOS Student Developer Program (2500+ applicants)
-currently_exploring: [LLMs & GenAI pipelines, applied ML for accessibility, system design]
-believes_in: Using data and AI to build products that solve real human problems
+Recognition: Selected — Apple & Infosys iOS Student Developer Program (2500+ applicants)
+Currently_exploring: [LLMs & GenAI pipelines, applied ML for accessibility, system design]
+Believes_in: Using data and AI to build products that solve real human problems
 ```
 
 I like working across the stack — from cleaning and analyzing data with Python, to building intelligent NLP/GenAI features, to shipping polished mobile experiences. Most of my projects sit at the intersection of **accessibility, AI, and impact**.
