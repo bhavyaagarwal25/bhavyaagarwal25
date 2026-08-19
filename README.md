@@ -100,7 +100,7 @@ I work extensively with Python's data stack for analysis, and with NLP/GenAI too
 
 An AI-powered accessibility app that converts live speech and recorded video into Indian Sign Language (ISL) in real time, using NLP and a custom gloss dictionary of **2,500+ ISL signs**, rendered as synchronized animation through a 3D avatar.
 
-📲 [TestFlight](#)
+📲 [TestFlight](https://testflight.apple.com/join/wUacm3w9)
 
 </td>
 <td width="50%" valign="top">
@@ -112,7 +112,7 @@ A web-based assistive navigation platform for visually impaired users — commun
 
 🏆 **1st Place — SAARTHI'25 National Hackathon** (250+ teams)
 
-🔗 [GitHub](https://github.com/bhavyaagarwal25/pathvaani)
+🔗 [GitHub]((https://github.com/Ayushmangit/PathVaani-Backend))
 
 </td>
 </tr>
@@ -133,6 +133,7 @@ A full-stack volunteer coordination platform for disaster response, with real-ti
 *iOS Hackathon Build*
 
 An offline-first food ordering solution enabling order placement and payments with minimal internet connectivity — built for Zomato's SwiftDidLoad iOS Hackathon.
+🔗 [GitHub](https://github.com/bhavyaagarwal25/EternalLite)
 
 🏅 **Top 10 — Zomato SwiftDidLoad iOS Hackathon**
 
