@@ -112,7 +112,7 @@ A web-based assistive navigation platform for visually impaired users — commun
 
 🏆 **1st Place — SAARTHI'25 National Hackathon** (250+ teams)
 
-🔗 [GitHub]((https://github.com/Ayushmangit/PathVaani-Backend))
+🔗 [GitHub](https://github.com/Ayushmangit/PathVaani-Backend)
 
 </td>
 </tr>
