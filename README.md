@@ -100,7 +100,7 @@ I work extensively with Python's data stack for analysis, and with NLP/GenAI too
 
 An AI-powered accessibility app that converts live speech and recorded video into Indian Sign Language (ISL) in real time, using NLP and a custom gloss dictionary of **2,500+ ISL signs**, rendered as synchronized animation through a 3D avatar.
 
-📲 [TestFlight](https://testflight.apple.com/join/wUacm3w9)
+📲 [GitHub](https://github.com/bhavyaagarwal25/SignVaani)
 
 </td>
 <td width="50%" valign="top">
